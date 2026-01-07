@@ -5,8 +5,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub top language](https://img.shields.io/github/languages/top/ramzancodeclub/Daily-Goal)
-![GitHub license](https://img.shields.io/github/license/ramzancodeclub/Daily-Goal)
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
