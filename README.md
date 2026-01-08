@@ -39,8 +39,8 @@ The goal of this challenge was to build a simple and responsive QR code card usi
 
 ### 🔗 Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-built-with-html-css-and-flexbox-GksewZYhf3)
+- Live Site URL: [QR Code Component](https://qr-code-component-sepia-nu.vercel.app/)
 
 ### Built With
 
