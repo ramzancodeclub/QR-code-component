@@ -1,9 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/* Modern css reset */
+@import url(reset.css);
 
 :root {
     /* colors */
@@ -26,6 +22,7 @@
 
 body {
     font-family: var(--ff-outfit);
+    background-color: var(--clr-slate-300);
 }
 
 img {
@@ -34,7 +31,7 @@ img {
     border-radius: 10px;
 }
 
-h3 {
+h1 {
     font-size: var(--text-preset-1);
     color: var(--clr-slate-900);
     margin-top: var(--spacing-300);
@@ -54,7 +51,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--clr-slate-300);
 }
 
 .qr-container {
@@ -77,12 +73,12 @@ p {
 
 footer {
     background-color: var(--clr-white);
-    padding: 8px;
+    padding: 8px 0;
     text-align: center;
     color: var(--clr-slate-900);
 }
 
-footer a {
+footer .link {
     text-decoration: none;
     color: var(--clr-blue-600);
 }
